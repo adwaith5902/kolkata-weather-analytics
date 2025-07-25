@@ -41,7 +41,7 @@ This project presents a comprehensive analysis of Kolkata’s weather patterns f
 4. **Rainfall Distribution** – Heatmap by month/year and monsoon analysis
 5. **2025 Forecast** – Predicted daily temperatures with trend line
 
-> 🎯 See full dashboard [[insert Tableau Public link if available](https://public.tableau.com/app/profile/adwaith.chandran/viz/ClimateInsightsKolkata/FinalDashboard)]
+[[> 🎯 See full dashboard](https://public.tableau.com/app/profile/adwaith.chandran/viz/ClimateInsightsKolkata/FinalDashboard)]
 
 ---
 
